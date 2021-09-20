@@ -1,3 +1,3 @@
 # lab3-017-03
-Team Member Names:
+Project Team Members:
 Rafael Neves
