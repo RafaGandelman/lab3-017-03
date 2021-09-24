@@ -1,5 +1,3 @@
 Project Team Members:
-max was here
-Project Team Members:
-*error*
+Max, Owen, Jon, Rafael, Kyle
 
